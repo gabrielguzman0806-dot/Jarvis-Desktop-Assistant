@@ -3,6 +3,16 @@ JARVIS.READ.ME
 # Jarvis - Personal Desktop AI Assistant
 
 
+## Author
+
+Gabriel Guzmán
+
+Computer Science student from Costa Rica.
+
+GitHub:
+https://github.com/gabrielguzman0806-dot
+
+
 ## Overview
 
 Jarvis is a personal desktop assistant built in Python, inspired by the idea of creating a highly customizable AI companion capable of interacting with the operating system through natural language.
