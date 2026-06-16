@@ -35,3 +35,6 @@ tests/
 # Model files
 *.onnx
 *.onnx.jsona
+
+# Temporary voice files
+voice/temp_voice*.mp3
